@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 eph = load('de421.bsp')
 ts = load.timescale()
 
-# Lokasi pengamatan: Semarang
+# Lokasi 
 lokasi_nama = "Lhokseumawe, Aceh"
 latitude = 5.1881
 longitude = 97.1467
